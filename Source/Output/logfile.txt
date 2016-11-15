@@ -1,0 +1,18 @@
+NaN Error
+-nan
+-nan
+NaN Error
+-nan
+-nan
+rt1:  -1.000000
+rt2:  -1.000000
+rt1:  1.000000
+rt2:  1.000000
+Divide by zero error
+rt1:  1.000000
+rt2:  1.000000
+Divide by zero error
+rt1:  1.000000
+rt2:  1.000000
+rt1:  -0.689898
+rt2:  0.289898

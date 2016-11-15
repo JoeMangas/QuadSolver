@@ -1,0 +1,8 @@
+make: infinity.c
+  gcc infinity.c
+
+clean:
+  -rm 0f *.o
+
+run:
+ ./a.out
